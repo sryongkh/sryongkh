@@ -14,7 +14,9 @@
 -  I’m currently learning **Next.js, Angular, and CSS **
 - 💬 : **HTML, CSS, JavaScript, React, GSAP, Next.js**
 - 📫 : **sry.ongkh@gmail.com**
-- 👨‍💻 All of my projects are available at : **sryongkh.github.io/portfolio/**
+- 👨‍💻 All of my projects are available at :
+  <a href="[https://www.linkedin.com/in/sry-tn](https://sryongkh.github.io/portfolio/)" target="_blank"></a>
+  <a href="[https://congretty.com](https://congretty.com)" target="_blank"></a>
 
 <div>
   <a href="https://www.linkedin.com/in/sry-tn" target="_blank">
