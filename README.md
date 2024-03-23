@@ -1,4 +1,4 @@
-<img src="https://ibb.co/q9swDG8" width="100%" />
+<img src="https://i.ibb.co/q9swDG8/banner-github.png" alt="banner-github" border="0" width="100%">
 <h1 align="center">Hi 👋, I'm Sirinya</h1>
 <h3 align="center">Designer and Devloper from Thailand.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sryongkh&label=Profile%20views&color=0e75b6&style=flat" alt="sryongkh" /> </p>
