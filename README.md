@@ -86,4 +86,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sryongkh&theme=high-contrast"/>
 
-<img src="https://giphy.com/embed/9LZTcawH3mc8V2oUqk" frameBorder="0"></img>
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/9LZTcawH3mc8V2oUqk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/perfect-loops-9LZTcawH3mc8V2oUqk">via GIPHY</a></p>
