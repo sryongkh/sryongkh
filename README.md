@@ -87,7 +87,5 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sryongkh&theme=high-contrast"/>
 
 <div style="padding: 2rem; border: 2px solid #fe0000; width: 100%; display: flex; justify-content: center; margin: 0 auto;">
-  &nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ2MnA1NDA2d2lkNTZwNHF0eTYwdGplNTFyZXRjY2c3bjBpb3V1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif" style="padding: 2rem; border: 2px solid #fe0000; width: 100%; display: flex; justify-content: center; margin: 0 auto;" />
-  &nbsp;
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ2MnA1NDA2d2lkNTZwNHF0eTYwdGplNTFyZXRjY2c3bjBpb3V1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif" style="padding: 2rem; border: 2px solid #fe0000; width: 100%; display: flex; justify-content: center; margin: 0 auto;" /></p>
 </div>
