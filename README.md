@@ -86,6 +86,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sryongkh&theme=high-contrast"/>
 
-<div style="padding: 2rem; border: 2px solid #fe0000; width: 100%; display: flex; margin: 0 auto;">
+<div style="padding: 2rem; border: 2px solid #fe0000; width: 100%; display: flex; justify-content: center; margin: 0 auto;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ2MnA1NDA2d2lkNTZwNHF0eTYwdGplNTFyZXRjY2c3bjBpb3V1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif" />
 </div>
