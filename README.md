@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🖥 I’m currently learning **Dart, React Native, Next.js, Angular, and CSS**
+- 🖥 I’m currently learning **Dart, Vue.js, Next.js, Angular, and CSS**
 - 💬 : **HTML, CSS, JavaScript, React, GSAP, Next.js**
 - 📫 : **sry.ongkh@gmail.com**
 - 👨‍💻 All of my projects are available at :
