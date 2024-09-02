@@ -1,4 +1,6 @@
-![GIF](https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif" alt="GIF">
+</div>
 <h1 align="center">Hi 👋, I'm Sirinya</h1>
 <h3 align="center">Designer and Devloper from Thailand.</h3>
 <p align="center">
