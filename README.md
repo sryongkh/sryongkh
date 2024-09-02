@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/0ZM3nNL/banner-github.png" alt="banner-github" border="0" width="100%">
+<img src="https://giphy.com/embed/l3978y5HqiEtqupiM" alt="banner-github" border="0" width="100%">
 <h1 align="center">Hi 👋, I'm Sirinya</h1>
 <h3 align="center">Designer and Devloper from Thailand.</h3>
 <p align="center">
