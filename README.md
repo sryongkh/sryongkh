@@ -7,23 +7,20 @@
   <img src="https://komarev.com/ghpvc/?username=sryongkh&label=Profile%20views&color=0e75b6&style=flat" alt="sryongkh" />
 </div>
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sryongkh&theme=oldie&margin-w=6&title=-Issues,-PullRequest,%20-Reviews" alt="All trophys I deserved, Sirinya" />
-      </a>
-    </td>
-    <td valign="top" style="padding-left: 20px;">
-      🖥 I’m currently learning <b>Dart, Vue.js, Next.js, Angular, and CSS</b><br>
-      💬 : <b>HTML, CSS, JavaScript, React, GSAP, Next.js</b><br>
-      📫 : <b>sry.ongkh@gmail.com</b><br>
-      👨‍💻 All of my projects are available at :<br>
-      <a href="https://sryongkh.github.io/portfolio/">https://sryongkh.github.io/portfolio/</a><br>
-      <a href="https://congretty.com">https://congretty.com</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sryongkh&theme=oldie&margin-w=6&title=-Issues,-PullRequest,%20-Reviews" alt="All trophys I deserved, Sirinya" />
+  </a>
+</p>
+
+<p align="center">
+  🖥 I’m currently learning <b>Dart, Vue.js, Next.js, Angular, and CSS</b><br>
+  💬 : <b>HTML, CSS, JavaScript, React, GSAP, Next.js</b><br>
+  📫 : <b>sry.ongkh@gmail.com</b><br>
+  👨‍💻 All of my projects are available at :<br>
+  <a href="https://sryongkh.github.io/portfolio/">https://sryongkh.github.io/portfolio/</a><br>
+  <a href="https://congretty.com">https://congretty.com</a>
+</p>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sry-tn" target="_blank">
