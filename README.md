@@ -6,7 +6,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=sryongkh&label=Profile%20views&color=0e75b6&style=flat" alt="sryongkh" />
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sryongkh&theme=oldie&margin-w=6&title=-Issues,-PullRequest,%20-Reviews" alt="All trophys I deserved, Sirinya" />
   </a>
 </div>
