@@ -9,12 +9,12 @@
 
 <table align="center">
   <tr>
-    <td>
+    <td valign="top">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=sryongkh&theme=oldie&margin-w=6&title=-Issues,-PullRequest,%20-Reviews" alt="All trophys I deserved, Sirinya" />
       </a>
     </td>
-    <td>
+    <td valign="top" style="padding-left: 20px;">
       🖥 I’m currently learning <b>Dart, Vue.js, Next.js, Angular, and CSS</b><br>
       💬 : <b>HTML, CSS, JavaScript, React, GSAP, Next.js</b><br>
       📫 : <b>sry.ongkh@gmail.com</b><br>
