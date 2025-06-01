@@ -5,26 +5,27 @@
   <h3>Designer and Developer from Thailand.</h3>
 
   <img src="https://komarev.com/ghpvc/?username=sryongkh&label=Profile%20views&color=0e75b6&style=flat" alt="sryongkh" />
-
-  <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sryongkh&theme=oldie&margin-w=6&title=-Issues,-PullRequest,%20-Reviews" alt="All trophys I deserved, Sirinya" />
-  </a>
 </div>
 
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=sryongkh&theme=oldie&margin-w=6&title=-Issues,-PullRequest,%20-Reviews" alt="All trophys I deserved, Sirinya" />
+      </a>
+    </td>
+    <td>
+      🖥 I’m currently learning <b>Dart, Vue.js, Next.js, Angular, and CSS</b><br>
+      💬 : <b>HTML, CSS, JavaScript, React, GSAP, Next.js</b><br>
+      📫 : <b>sry.ongkh@gmail.com</b><br>
+      👨‍💻 All of my projects are available at :<br>
+      <a href="https://sryongkh.github.io/portfolio/">https://sryongkh.github.io/portfolio/</a><br>
+      <a href="https://congretty.com">https://congretty.com</a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-🖥 I’m currently learning <b>Dart, Vue.js, Next.js, Angular, and CSS</b>  
-💬 : <b>HTML, CSS, JavaScript, React, GSAP, Next.js</b>  
-📫 : <b>sry.ongkh@gmail.com</b>  
-👨‍💻 All of my projects are available at :  
-<a href="https://sryongkh.github.io/portfolio/">https://sryongkh.github.io/portfolio/</a>  
-<a href="https://congretty.com">https://congretty.com</a>
-
-<br>
-
 <a href="https://www.linkedin.com/in/sry-tn" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
